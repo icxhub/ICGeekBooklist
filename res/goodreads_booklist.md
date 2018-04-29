@@ -1,5 +1,6 @@
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|21295469|Tcl/Tk 8.5 Programming Cookbook|Bert Wheeler|"Wheeler| Bert"||||0|4|Packt Publishing|Kindle Edition|238|2011|2011||4/28/2018|"icgeek| coding"|"icgeek (#6)| coding (#8)"|read||||0|||0||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|21295469|Tcl/Tk 8.5 Programming Cookbook|Bert Wheeler|"Wheeler Bert"||||0|4|Packt Publishing|Kindle Edition|238|2011|2011||4/28/2018|"icgeek coding"|"icgeek (#6) coding (#8)"|read||||0|||0||||||
+
 |6362662|Tcl and the Tk Toolkit|John K. Ousterhout|"Ousterhout| John K."|Ken Jones|032133633X|9780321336330|0|3.77|Addison-Wesley Professional|Paperback|773|2009|1994||4/28/2018|"icgeek| coding"|"icgeek (#5)| coding (#7)"|read||||0|||0||||||
 |701176|"Verilog HDL Synthesis| A Practical Primer"|Jayaram Bhasker|"Bhasker| Jayaram"||0965039153|9780965039154|0|3.43|Star Galaxy Pub|Paperback|215|1998|1998||4/28/2018|"ic| icgeek"|"ic (#51)| icgeek (#4)"|read||||0|||0||||||
 |17123864|Constraining Designs for Synthesis and Timing Analysis: A Practical Guide to Synopsys Design Constraints (Sdc)|Sridhar Gangadharan|"Gangadharan| Sridhar"|Sanjay Churiwala|1461432685|9781461432685|4|4.62|Springer|Hardcover|226|2013|2013||1/4/2015|"currently-reading| ic| icgeek"|"currently-reading (#2)| ic (#6)| icgeek (#3)"|currently-reading||||1|||1|||unspecified|||
