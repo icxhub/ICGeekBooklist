@@ -4,5 +4,5 @@ RSS 订阅地址：https://www.goodreads.com/review/list_rss/38637157?key=KtTRTF
 
 Good Reads 链接：https://www.goodreads.com/review/list/38637157-steve-b?shelf=icgeek
 
-## 2018042
+## 20180428
 ![20180428](./res/20180428.png)
